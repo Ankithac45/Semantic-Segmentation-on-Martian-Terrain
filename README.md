@@ -35,7 +35,7 @@ Brown - Sand
 </div>
 
 :point_up: <b>Most of the files are large, hence cannot be viewed on github. To view .ipynb notebooks, clone this repository.</b><br/>
-:point_up: <b>List of important links in references.txt</b>
+:point_up: <b>List of helpful links and articles in references.txt</b>
 
 ## Contributors 
 * [Ankitha C](https://github.com/Ankithac45)
