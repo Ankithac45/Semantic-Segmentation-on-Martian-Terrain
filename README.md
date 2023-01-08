@@ -5,6 +5,8 @@ We focus on the topography of Mars for navigation of rovers. <br/>
 AI4Mars Dataset includes terrain images from Curiosity, Opportunity and Spirit(MER) rovers.
 This project model recognises landscape features - Sand, Soil, Rock, Rover, Horizon and predicts the same.
 
+In this research, a novel approach has been presented for multi-label semantic segmentation of the martian terrain for navigation using variants of a transformer model - SegFormer, which has resulted in a commendable accuracy of 90.86% and mIoU of 83.55% on the AI4Mars dataset.
+
 
 [Raw Dataset](https://data.nasa.gov/Space-Science/AI4MARS-A-Dataset-for-Terrain-Aware-Autonomous-Dri/cykx-2qix)<br/>
 [Preprocessed Annotated Dataset](https://huggingface.co/datasets/Ankhitan/1000Samples)
